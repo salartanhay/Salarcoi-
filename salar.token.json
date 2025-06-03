@@ -1,0 +1,10 @@
+{
+  "name": "SalarCoin",
+  "symbol": "SALAR",
+  "decimals": 6,
+  "image": "https://salar.ct.ws/logo.png",
+  "description": "رمزارز رسمی شخصی سالار روی شبکه TON",
+  "socials": {
+    "website": "https://salar.ct.ws"
+  }
+}
